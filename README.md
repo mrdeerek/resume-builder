@@ -131,8 +131,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, feel free to reach out:
 
-- Name: kunal raj 
-- Email: kunalraj845454@gmail.com
+- Name: kunal raj, sneha negi
+- Email: kunalraj845454@gmail.com, snehanegi2004@gmail.com
 - GitHub: [MRDEEREK](https://github.com/MRDEEREK)
 
 ---
